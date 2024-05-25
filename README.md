@@ -33,4 +33,4 @@ Las historias de usuario se documentaron en JIRA Software y se pueden encontrar 
 ## Integrantes del Grupo
 - **Juan Felipe Borbon** (GitHub: jfborbon)
 - **Juan Andrés Correa** (GitHub: juancorrea22)
-- **Juan José Bolivar** (GitHub: juanj360)
+- **Juan José Bolivar** (GitHub: JuanJ360)
